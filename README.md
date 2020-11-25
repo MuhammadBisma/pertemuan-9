@@ -5,5 +5,6 @@
 Pada di pertemuan ke 9 ini saya diberikan beberapa tugas oleh dosen saya, yaitu diantaranya:
 ## TUGAS PRAKTIKUM 4
 Yang mana pada praktikum 4 ini terdapat beberapa soal seperti yang ada dibawah ini.
-![gitpush](poto/2.png) <br>
+![gitpush](poto/5.png) <br>
+Adapun hasil akhir yang diberikan dosen saya sebagai contoh output dari semua tugas diatas.
 
